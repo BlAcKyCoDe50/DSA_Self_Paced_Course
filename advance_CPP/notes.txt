@@ -1,0 +1,3 @@
+dynammic allocation:- 
+Hero *b=new Hero; //memory allocated in heap and the size is 8 byte
+"this" is the pointer to the current object

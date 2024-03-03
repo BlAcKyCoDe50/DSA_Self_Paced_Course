@@ -1,0 +1,2 @@
+1.To get the last digit of any number just mod it with 10
+Ex= 890%10 = 0,768%10=8.
